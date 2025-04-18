@@ -1,4 +1,4 @@
-# Proje/Ödevi için Yapmanız Gerekenler
+# Proje/Ödev için Yapmanız Gerekenler
 
 1. Yapay Zeka Uygulamasını yapacağınız veri setini belirleyiniz.
 2. İlgi duyduğunuz veri setlerini inceleyiniz
