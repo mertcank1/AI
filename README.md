@@ -9,6 +9,4 @@
 5. Validation yöntemlerini deneyiniz.
 6. Sonuçları elde edin, yorumlayın ve 10 Mayısa kadar bana teslim ediniz.
 
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="drawing" width="200"/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="drawing" width="400"/>
